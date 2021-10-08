@@ -1,0 +1,16 @@
+红外 B5
+
+HX711 	SCK A8
+      	SCL A11
+
+BEEP	·A12
+
+LCD         DATA	 A0-A7
+	REST	A8
+	RS	C13
+	RW	C14
+	E	C15
+
+DH11	B10
+
+MQ 	B0
